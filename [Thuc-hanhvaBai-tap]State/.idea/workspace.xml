@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf7c4272-3b3b-429e-bbc4-78d7032ace11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hook/src/component/carOption.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook/src/component/hookCustom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook/src/component/useEffect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hook/src/component/useState.js" afterDir="false" />
+    <list default="true" id="6e677729-352b-4e5e-8b1b-99fe617ccc50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]Hook/hook/src/component/ComponentCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]Hook/hook/src/component/carOption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]Hook/hook/src/component/countDown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]Hook/hook/src/component/hookCustom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]Hook/hook/src/component/useEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc-hanh]Hook/hook/src/component/useState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state/src/component/CRUDstudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state/src/component/changeBackgroundColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state/src/component/clickAddDecrease.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state/src/component/login&amp;logout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state/src/component/unmountElement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../F8/f8" beforeDir="false" afterPath="$PROJECT_DIR$/../F8/f8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Bai-tap]-React-Component/baitap" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]-React-Component/baitap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Bai-tap]JSX/baitap" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bai-tap]JSX/baitap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-Nhung-ten-cua-ban-vao-React-Element-tao-boi-React.createElement" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-Nhung-ten-cua-ban-vao-React-Element-tao-boi-React.createElement" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]-React-Component/thuc-hanh" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]-React-Component/thuc-hanh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hook/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hook/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]Hook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]Hook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Thuc-hanh]Hook/hook/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc-hanh]Hook/hook/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +32,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2CWFdIXkQXPq7pPn4A01m0bgDF9" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2CYIIM4pfYOcJiz27NDeeXpwYTi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -46,12 +56,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf7c4272-3b3b-429e-bbc4-78d7032ace11" name="Changes" comment="" />
-      <created>1658910528343</created>
+      <changelist id="6e677729-352b-4e5e-8b1b-99fe617ccc50" name="Changes" comment="" />
+      <created>1658973016509</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658910528343</updated>
-      <workItem from="1658910529783" duration="5128000" />
+      <updated>1658973016509</updated>
+      <workItem from="1658973017657" duration="6862000" />
     </task>
     <servers />
   </component>
